@@ -10,7 +10,8 @@ Pantone make colours from this guide freely available via their
 situations.
 
 If you are offline and your design application does not include the most recent
-colours from this swatchbook, you can use this script to scrape them.
+colours from this swatchbook, you can use this script to scrape them for
+personal use.
 
 Tested on the 2019 Pantone Color Finder.
 
