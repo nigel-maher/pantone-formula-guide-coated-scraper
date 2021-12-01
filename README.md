@@ -9,7 +9,7 @@ Pantone make colours from this guide freely available via their
 **This project was a learning exercise only** but may be useful in certain fringe
 situations.
 
-If you are offline and your design application does not include the most recent
+If your design application does not include the most recent
 colours from this swatchbook, you can use this script to scrape them for
 personal use.
 
